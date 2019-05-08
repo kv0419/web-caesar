@@ -44,10 +44,10 @@ form ="""
 """
 
 ## @app.route("/" methods=['POST'])
-## def encrypt(rot1,text2):
-##    rot1="rot" 
+## def encrypt(text2,rot2):
 ##    text2="text"
-##    output=rotate_string(rot1,text2)
+##    rot2="rot" 
+##    output=rotate_string(text2, rot2)
 ##    return <h1>output</h1>
 
 
